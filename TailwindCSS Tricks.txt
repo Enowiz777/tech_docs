@@ -1,0 +1,3 @@
+TailwindCSS Tricks
+
+- <html> <input type="file"> will attach the file. 
