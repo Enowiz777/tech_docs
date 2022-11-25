@@ -8,7 +8,12 @@
 new_list = [new_item for item in list]
 # Replace each item with a new_item.
 ```
-## 
+# Libraries
+
+- Tkinter: useful for creating UI for a desktop app.
+Ref: https://docs.python.org/3/library/tkinter.ttk.html#label-options
+- PyPDF2: useful in reading texts in PDF and other features (mergePDF).
+- 
 
 
 # 1. Strings
